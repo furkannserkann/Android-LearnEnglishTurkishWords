@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/fredoka_one</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/quicksand_bold</item>
+        <item>@font/quicksand_medium</item>
+        <item>@font/righteous</item>
+        <item>@font/sniglet</item>
+        <item>@font/sniglet_extrabold</item>
+        <item>@font/sofia</item>
+    </array>
+</resources>
