@@ -156,6 +156,10 @@ public class MainActivity extends AppCompatActivity {
         loadKeyboardKey();
 
         SoundAndVibrationCheck();
+
+        LinearLayout LinearKeyboard = (LinearLayout) findViewById(R.id.KEYBOARD);
+        LinearKeyboard.setVisibility(View.GONE);
+        editTextAnswer.setEnabled(true);
     }
 
     Integer lastNumNormal = 0 /* sıralı soruda kaçıncıda */, lastNumCount = 0 /*  */;
