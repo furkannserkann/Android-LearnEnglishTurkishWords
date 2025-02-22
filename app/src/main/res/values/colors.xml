@@ -31,4 +31,5 @@
 
     <color name="transparent_white">#66FFFFFF</color>
     <color name="custom_red">#8D2727</color>
+    <color name="Transparent">#00000000</color>
 </resources>
